@@ -30,7 +30,7 @@ function getMonthName() {
 				isValid = true
 				break
 			case 5:
-				season = "Травень"
+				monthName = "Травень"
 				isValid = true
 				break
 			case 6:
@@ -42,7 +42,7 @@ function getMonthName() {
 				isValid = true
 				break
 			case 8:
-				season = "Серпень"
+				monthName = "Серпень"
 				isValid = true
 				break
 			case 9:
